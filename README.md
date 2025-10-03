@@ -15,35 +15,35 @@ Analizar el registro histórico de ascensos en las montañas del Himalaya, explo
 sql
 📂 Proyecto_Himalaya/
 ├── 📊 BBDD/ 
-│   ├── .gitkeep
-│   ├── exped.csv
-│   ├── himalayan_data_dictionary.csv
-│   ├── members.csv
-│   └── peaks.csv                     # Datasets de origen utilizados en el ETL
-├── Dashboard/ 
-│   ├── himalayan_project.pbix        # Archivo fuente del Dashboard de Power BI
-│   ├── himalayan_project.pdf         # PDF exportado del Dashboard
-│   └── power_bi[1-4].png             # Capturas de pantalla del Dashboard
-├── ERD/ 
-│   ├── ERD_Himalayan_Expeditions.png # Diagrama Entidad-Relación (ERD)
-│   └── himalayan_expeditions.mwb     # Archivo fuente de MySQL Workbench
+│   ├── 📄 .gitkeep
+│   ├── 📄 exped.csv
+│   ├── 📄 himalayan_data_dictionary.csv
+│   ├── 📄 members.csv
+│   └── 📄 peaks.csv                     # Datasets de origen utilizados en el ETL
+├── 📈 Dashboard/ 
+│   ├── 📄 himalayan_project.pbix        # Archivo fuente del Dashboard de Power BI
+│   ├── 📄 himalayan_project.pdf         # PDF exportado del Dashboard
+│   └── 📄 power_bi[1-4].png             # Capturas de pantalla del Dashboard
+├── 🧩 ERD/ 
+│   ├── 📐 ERD_Himalayan_Expeditions.png # Diagrama Entidad-Relación (ERD)
+│   └── 📄 himalayan_expeditions.mwb     # Archivo fuente de MySQL Workbench
 ├── 📓 Notebook/ 
 │   ├── 📒 himalayan_project.ipynb       # Jupyter Notebook con el análisis principal
-│   └── himalayan_project_notebook.pdf# PDF exportado del Notebook
+│   └── 📄 himalayan_project_notebook.pdf# PDF exportado del Notebook
 ├── 🗄️ SQL
-│   ├──
-│   ├──
-│   ├──
-│   ├──
-│   ├──
-│   ├──
-│   ├──
-│   ├──
-│   ├──
-├── Utils/ 
-│   └── db_connection.py              # Script Python para la conexión a la base de datos
+│   ├── 📄 expeditions_fatality.sql
+│   ├── 📄 expeditions_members.sql
+│   ├── 📄 expeditions_por_anio.sql
+│   ├── 📄 expeditions_por_pais.sql
+│   ├── 📄 expeditions_por_pico_pais.sql
+│   ├── 📄 expeditions_por_season.sql
+│   ├── 📄 himalayan_expeditions.sql
+│   ├── 📄 muertes_por_pico__mdeaths_ALL.sql
+│   ├── 📄 top50_nations_por_expediciones.sql
+├── 🛠️ Utils/ 
+│   └── 📄 db_connection.py              # Script Python para la conexión a la base de datos
 ├── csv/                              # Archivos CSV intermedios o limpios (si aplica)
-├── exportados/                       # Gráficos y figuras exportadas
+├── 📤 exportados/                       # Gráficos y figuras exportadas
 └── README.md
 
 ```
