@@ -47,3 +47,16 @@ sql
 └── README.md
 
 ```
+---
+
+## 📐 Diagrama ERD MySQL
+
+![Diagrama ERD MySQL](ERD/ERD_Himalayan_Expeditions.png)
+
+---
+
+## 📐 Diagrama ERD Power BI
+
+![Diagrama ER del Data Mart](erd/ERD_mercado_ia.png)
+
+---
