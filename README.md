@@ -97,6 +97,15 @@ sql
 ![% Muertes expediciones al Everest](./exportados/members_Everest_por_nacion.png)
 
 ---
+
+ 📈 **Power BI**  
+![Expediciones históricas](./Dashboard/power_bi2.png)
+
+---
+ 📈 **Power BI**  
+![Expediciones históricas](./Dashboard/power_bi4.png)
+
+---
 ### **📖 Documentación de librerías y herramientas**
 - 📘 [Pandas](https://pandas.pydata.org/docs/) – Análisis de datos en Python.  
 - 📗 [Seaborn](https://seaborn.pydata.org/) – Visualización estadística.  
