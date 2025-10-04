@@ -57,6 +57,6 @@ sql
 
 ## 📐 Diagrama ERD Power BI
 
-![Diagrama ER del Data Mart](erd/ERD_mercado_ia.png)
+![Diagrama ERD Power BI](Dashboard/ERD_Power_BI.png)
 
 ---
