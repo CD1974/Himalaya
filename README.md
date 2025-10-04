@@ -89,5 +89,20 @@ sql
 ![Expediciones Everest](./exportados/mapa_everest_exped.png)
 
 ---
- 🏔️ **Expediciones Everest**  
+ 🏔️ **Ascensos exitosos en el Everest**  
 ![Expediciones exitosas Everest](./exportados/exitos_exitos_Everest_1950-2025.png)
+
+---
+ 🏔️ **Ascensos exitosos en el Everest**  
+![Expediciones exitosas Everest](./exportados/exitos_exitos_Everest_1950-2025.png)
+
+---
+### **📖 Documentación de librerías y herramientas**
+- 📘 [Pandas](https://pandas.pydata.org/docs/) – Análisis de datos en Python.  
+- 📗 [Seaborn](https://seaborn.pydata.org/) – Visualización estadística.  
+- 📙 [Plotly](https://plotly.com/python/) – Gráficos interactivos.  
+- 🟦 [SQLAlchemy](https://docs.sqlalchemy.org/) – Conexión y manejo de bases de datos.  
+- 🟩 [python-dotenv](https://saurabh-kumar.com/python-dotenv/) – Gestión de credenciales y variables de entorno.  
+- 🟨 [Power BI](https://learn.microsoft.com/es-es/power-bi/) – Dashboards interactivos.
+
+---
