@@ -115,3 +115,29 @@ sql
 - 🟨 [Power BI](https://learn.microsoft.com/es-es/power-bi/) – Dashboards interactivos.
 
 ---
+
+### **📌 Conclusión**
+
+🏔️ ***Himalayan Expeditions Data Analysis***
+---
+Este proyecto aloja y analiza un conjunto de datos completo sobre expediciones y picos en el Himalaya, centrado principalmente en Nepal. El objetivo es proporcionar una base de datos limpia, organizada y geográficamente estructurada para la exploración estadística, la visualización de datos de escalada, y el análisis de la historia de las montañas más altas del mundo.
+---
+
+💾 Estructura de la Base de Datos (CSV)
+---
+**La información se distribuye a través de cinco archivos CSV clave ubicados en la carpeta BBDD/:**
+
+**peaks.csv:** ⛰️ Catálogo principal de las montañas, incluyendo el estado de apertura (trekking o expedición), altitud, ubicación geográfica (cordillera, subcordillera) y el primer ascenso registrado.
+
+**himalayan_data_dictionary.csv:** 📖 Diccionario de datos para todos los campos utilizados en los archivos CSV.
+
+**exped.csv:** 📅 Registros detallados de cada expedición, incluyendo fechas, rutas y resultados.
+
+**members.csv:** 🧑‍🤝‍🧑 Información sobre los miembros de las expediciones, como nacionalidad, rol (líder/miembro) y destino (cumbre/muerte).
+
+**refer.csv:** 🔗 Información de referencia cruzada.
+
+---
+**⚙️ Nota Técnica (Git LFS)**
+---
+Debido al tamaño considerable de los archivos de expediciones (exped.csv, members.csv, refer.csv), este repositorio utiliza Git LFS (Large File Storage) para rastrear estos archivos, asegurando la eficiencia del repositorio principal sin problemas de tamaño.
