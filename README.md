@@ -93,8 +93,8 @@ sql
 ![Expediciones exitosas Everest](./exportados/exitos_exitos_Everest_1950-2025.png)
 
 ---
- 🏔️ **Ascensos exitosos en el Everest**  
-![Expediciones exitosas Everest](./exportados/exitos_exitos_Everest_1950-2025.png)
+ 🏔️ **% Muertes expediciones al Everest**  
+![% Muertes expediciones al Everest](./exportados/members_Everest_por_nacion.png)
 
 ---
 ### **📖 Documentación de librerías y herramientas**
