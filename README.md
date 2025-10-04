@@ -71,11 +71,11 @@ sql
 
 ## **📚 Recursos**
 
-- 📂 [Dataset original de Kaggle](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025?select=ai_job_dataset1.csv) – Datos sobre empleos en IA y ciencia de datos.  
-- 💾 [Script SQL completo](sql/mercado_ia_final.sql) – Incluye la creación de tablas, normalización, inserciones de traducciones utilizadas en el análisis.
+- 📂 [Dataset original de Maven Analytics](https://mavenanalytics.io/data-playground/himalayan-expeditions) – Datos sobre expediciones al Himalaya de 1905 - 2024.  
+- 💾 [Script SQL completo](SQL/himalayan_expeditions.sql) – Incluye la creación de tablas, normalización, inserciones de traducciones utilizadas en el análisis.
 - 🗂️ [Consultas SQL](./sql/) – Scripts para replicar las consultas de análisis.  
 - 📊 [Visualizaciones y figuras exportadas](./exportados/) – Gráficos y reportes generados en el proyecto.
-- 🌐 [Ver Dashboard Power BI](https://app.powerbi.com/links/5we-gcFjag?ctid=58e889c2-cfaf-48cf-8649-705898b60c6c&pbi_source=linkShare&bookmarkGuid=47b39fd4-a442-4155-b7c4-fcf745bfef36)
+- 🌐 [Ver Dashboard Power BI](https://app.powerbi.com/links/UJvvlN6tTB?ctid=58e889c2-cfaf-48cf-8649-705898b60c6c&pbi_source=linkShare)
 
 ---
 
